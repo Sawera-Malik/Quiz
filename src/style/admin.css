@@ -1,0 +1,24 @@
+.name{
+    margin-top: 10%;
+}
+table{
+    border: 1px solid black;
+    background-color: black;
+    width: 50%;
+    padding: 5px;
+    font-size: large;
+    margin-top: 3%;
+    margin-left: 25%;
+
+}
+th{
+    
+    background-color:white;
+    padding: 5px;
+}
+td{
+    padding: 5px;
+ 
+    background-color:white;
+
+}

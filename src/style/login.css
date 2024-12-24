@@ -1,0 +1,21 @@
+
+.game{
+    margin-top: 10%;
+    margin-left: -80px;
+}
+
+.form{
+width: 30%;
+transform: translate(110%, 20%);
+border: 1px solid black;
+padding: 10px;
+border-radius: 10px;
+box-shadow: 10px 10px 10px 10px black;
+}
+
+.input{
+    width: 70%;
+}
+Select{
+    width: 50%;
+}

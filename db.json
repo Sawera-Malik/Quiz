@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "id": "5af4",
+      "username": "sawera3",
+      "userType": "admin"
+    },
+    {
+      "id": "37b9",
+      "username": "sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "cb56",
+      "username": "admin",
+      "userType": "admin"
+    },
+    {
+      "id": "3e47",
+      "username": "admin",
+      "userType": "aser"
+    },
+    {
+      "id": "b64b",
+      "username": "admin",
+      "userType": "aser"
+    },
+    {
+      "id": "96d7",
+      "username": "sawera",
+      "userType": "user"
+    },
+    {
+      "id": "44b8",
+      "username": "admin",
+      "userType": "admin"
+    },
+    {
+      "id": "bf58",
+      "username": "admin",
+      "userType": "admin"
+    },
+    {
+      "id": "2ba6",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "ff20",
+      "username": "admin",
+      "userType": "admin"
+    },
+    {
+      "id": "bee4",
+      "username": "sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "223c",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "ec95",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "510e",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "ac86",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "7759",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "89b8",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "02c1",
+      "username": "sawera",
+      "userType": "user"
+    },
+    {
+      "id": "02b3",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "bb50",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "d098",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "9bfb",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "8089",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "445f",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "6caa",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "a811",
+      "username": "admin",
+      "userType": "user"
+    },
+    {
+      "id": "2220",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "4312",
+      "username": "attachannar8@gmail.com",
+      "userType": "user"
+    },
+    {
+      "id": "8298",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "5fd2",
+      "username": "sawera",
+      "userType": "user"
+    },
+    {
+      "id": "2b66",
+      "username": "sawera",
+      "userType": "user"
+    },
+    {
+      "id": "fa09",
+      "username": "Sawera",
+      "userType": "admin"
+    },
+    {
+      "id": "54e9",
+      "username": "admin",
+      "userType": "admin"
+    }
+  ],
+  "scores": [
+    {
+      "id": "14f0",
+      "name": "sawera",
+      "score": 2
+    },
+    {
+      "id": "d1b3",
+      "name": "sawera1",
+      "score": 2
+    },
+    {
+      "id": "027f",
+      "name": "sawera1",
+      "score": 2
+    },
+    {
+      "id": "a361",
+      "name": "admin",
+      "score": 2
+    },
+    {
+      "id": "2fdc",
+      "name": "sawera",
+      "score": 3
+    },
+    {
+      "id": "358e",
+      "name": "admin",
+      "score": 5
+    },
+    {
+      "id": "ae37",
+      "name": "admin",
+      "score": 2
+    },
+    {
+      "id": "ac7d",
+      "name": "attachannar8@gmail.com",
+      "score": 7
+    },
+    {
+      "id": "86b9",
+      "name": "sawera",
+      "score": 2
+    },
+    {
+      "id": "63e6",
+      "name": "sawera",
+      "score": 4
+    }
+  ]
+}
